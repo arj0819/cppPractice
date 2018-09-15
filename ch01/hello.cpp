@@ -13,7 +13,7 @@ using namespace std; //uses namespace to find function definitions
 int main (int argc, char** argv) {
     puts("Hello, World!");
 
-    cout << "Hellow, World!\n"; // std::cout is a C++ class found in <iostream>
+    cout << "Hello, World!\n"; // std::cout is a C++ class found in <iostream>
 
     return 0; //main function must return an int. 0 means exit with success.
 }
