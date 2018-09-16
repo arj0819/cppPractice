@@ -5,7 +5,7 @@ using namespace std;
 
 /*
     a C++ MACRO is a preprocessor directive
-    that defines a macro and what is should
+    that defines a macro and what it should
     do. Example:
 
     #define MACRO(a,b) (a * b)
