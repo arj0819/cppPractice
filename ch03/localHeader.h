@@ -2,7 +2,7 @@
 
 /*
     This implementation is known as an include
-    lock. Using the preprocessor directives in
+    guard. Using the preprocessor directives in
     this way prevents multiple inclusion of 
     header files by allowing the file to only
     be defined once. 
