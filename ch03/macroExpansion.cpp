@@ -8,7 +8,7 @@ using namespace std;
 
 /*
 Usually in C++, templates are the preferred way
-of handling this type of functionality, because
+of handling this type of functionality because
 paramaterized macros are literal text expansions
 that the preprocessor substitutes in the code 
 before the compiler ever sees it, thus leading
