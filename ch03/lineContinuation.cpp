@@ -4,10 +4,10 @@
 using namespace std;
 
 /*
-When using preprocessor directives, you can use the \
-to indicate to the preprocessor that the directive
-continues on the next line. This makes long directives
-easier to read.
+When using preprocessor directives, you can use the
+\(newline) to indicate to the preprocessor that the 
+directive continues on the next line. This makes 
+long directives easier to read.
 */
 
 #define SWAP(a,b) do {          \
